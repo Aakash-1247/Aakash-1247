@@ -11,7 +11,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Tarun Aakash"
+        self.name = "T AAKASH"
         self.location = "Chennai, India"
         self.degree = "B.Tech Computer Science & Engineering"
         self.university = "SRM Institute of Science and Technology"
