@@ -190,7 +190,7 @@ me = Developer()
 
 [![Email](https://img.shields.io/badge/Email-tarunaakash7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:tarunaakash7@gmail.com)](mailto:tarunaakash7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aakash--1247-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Aakash-1247)](https://github.com/Aakash-1247)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208778980782-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918778980782)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208778980782-25D366?style=flat-square&logo=whatsapp&logoColor=white)]
 
 </div>
 
